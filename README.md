@@ -7,7 +7,7 @@ The project will be delivered in 3 phases, with corresponding to **3 Work Packag
 
 | WP # | WP Title                                                     | Weight | Deadline                    |
 | ---- | ------------------------------------------------------------ | ------ | --------------------------- |
-| 1    | UI to manage **developer accounts** and **applications** (with bare-bone Java EE technologies). Implementation of presentation, business, integration and resource tiers. | 35%    | Monday, November 5th 2018   |
+| 1    | UI to manage **developer accounts** and **applications** (with bare-bone Java EE technologies). Implementation of presentation, business, integration and resource tiers. | 35%    | Friday, November 16th 2018   |
 | 2    | **Game engine** with REST APIs (UI optional).                | 40%    | Monday, December  17th 2018 |
 | 3    | **Demonstration** showing that it is possible to gamify an existing application. End-to-end scenario and presentation of information in a UI. | 25%    | Monday, January 14th 2019   |
 
